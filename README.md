@@ -33,5 +33,4 @@ The app will now behave like a standalone application, complete with its icon on
 
 ## Live Demo
 
-Experience the app live here: [Shopping List App Live Demo](https://your-demo-link.com)  
-_(Replace `https://your-demo-link.com` with your actual live demo URL.)_
+Experience the app live here: [Shopping List App Live Demo](https://gj7shoppinglist.netlify.app/)  

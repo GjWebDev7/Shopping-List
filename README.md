@@ -18,7 +18,6 @@ A simple, real-time shopping list application built with **HTML**, **CSS**, **Ja
 1. Open the app in your mobile browser (e.g., Chrome, Safari).
 2. Tap the browser’s menu (e.g., three dots on Chrome).
 3. Select **"Add to Home Screen"**.
-4. Follow the on-screen instructions to install the app.
 
 The app will now behave like a standalone application, complete with its icon on your phone’s homepage.
 
